@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5db8fc4-1ed6-4252-ab8a-7206027ce58d" name="Changes" comment="The student marks class is created">
+    <list default="true" id="e5db8fc4-1ed6-4252-ab8a-7206027ce58d" name="Changes" comment="the methods for calculating the marks is created">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/marks/studentsMarksImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marks/StudentMarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marks/StudentMarks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,26 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="studentsMarksImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.marks.studentsMarksImpl" />
+      <module name="C3_S5_Practice_Students_Grade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.marks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.studentsMarksImpl" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661842939193</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="the methods for calculating the marks is created">
+      <created>1661844154377</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661844154377</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +113,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="the maven compiler target is changed from 18 t0 11" />
     <MESSAGE value="The student marks class is created" />
-    <option name="LAST_COMMIT_MESSAGE" value="The student marks class is created" />
+    <MESSAGE value="the methods for calculating the marks is created" />
+    <option name="LAST_COMMIT_MESSAGE" value="the methods for calculating the marks is created" />
   </component>
 </project>
